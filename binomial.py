@@ -18,3 +18,4 @@ Y = X*100
 print(Fore.LIGHTGREEN_EX+"P(Xi = %.2f)" %y,"= %.4f" %X, "\t (or %.2f" %Y, "%)\n")
 print(Fore.LIGHTBLACK_EX+"Time taken: ", time.time() - start_time)
 print("This is after I worked on it from my Windows/Linux Terminal")
+print("This is edited from a branch, NOT the master")
